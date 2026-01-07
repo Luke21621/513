@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "name": "Minecraft Tee",
+        "category": "Gaming Apparel",
+        "price": 34,
+        "image": "image\/1.jpg",
+        "tagline": "Bright pixel art tee for everyday adventures."
+    },
+    {
+        "id": 2,
+        "name": "Fortnite Hoodie",
+        "category": "Gaming Apparel",
+        "price": 34,
+        "image": "image\/2.webp",
+        "tagline": "Soft fleece hoodie inspired by Battle Royale nights."
+    },
+    {
+        "id": 3,
+        "name": "Pokémon Mug",
+        "category": "Gamer Accessories",
+        "price": 25,
+        "image": "image\/3.jpg",
+        "tagline": "Heat-safe ceramic featuring a certain electric mouse."
+    },
+    {
+        "id": 4,
+        "name": "Among Us Crewmate Figure",
+        "category": "Collectibles",
+        "price": 30,
+        "image": "image\/4.jpg",
+        "tagline": "Imposter-proof vinyl figurine."
+    },
+    {
+        "id": 5,
+        "name": "Animal Crossing Pot Set",
+        "category": "Lifestyle & Decor",
+        "price": 32,
+        "image": "image\/5.jpg",
+        "tagline": "Leaf-pattern mini planters for cozy desks."
+    },
+    {
+        "id": 6,
+        "name": "Cyberpunk City LED Lights",
+        "category": "Lifestyle & Decor",
+        "price": 19,
+        "image": "image\/6.jpg",
+        "tagline": "Neon desk strip with programmable hues."
+    },
+    {
+        "id": 7,
+        "name": "Fantasy Continent Notebook",
+        "category": "Collectibles",
+        "price": 30,
+        "image": "image\/7.jpg",
+        "tagline": "Leather-bound notebook for campaign lore."
+    },
+    {
+        "id": 8,
+        "name": "League Foil Card Collection",
+        "category": "Collectibles",
+        "price": 15,
+        "image": "image\/8.jpg",
+        "tagline": "Limited foil cards featuring legendary champs."
+    },
+    {
+        "id": 9,
+        "name": "Star Trek Limited Edition",
+        "category": "Collectibles",
+        "price": 45,
+        "image": "image\/9.jpg",
+        "tagline": "Metallic print for Federation loyalists."
+    },
+    {
+        "id": 10,
+        "name": "Naruto Ninja Headband",
+        "category": "Cosplay Gear",
+        "price": 20,
+        "image": "image\/10.jpg",
+        "tagline": "Adjustable cotton band with metal crest."
+    },
+    {
+        "id": 11,
+        "name": "Sonic Collector Plush",
+        "category": "Collectibles",
+        "price": 28,
+        "image": "image\/11.webp",
+        "tagline": "Ultra-soft plush, ready for speed runs."
+    },
+    {
+        "id": 12,
+        "name": "Legend Adventure Bag",
+        "category": "Lifestyle & Decor",
+        "price": 38,
+        "image": "image\/12.jpg",
+        "tagline": "Travel sling with stealthy gamer flair."
+    },
+    {
+        "id": 13,
+        "name": "The Legend of Zelda Master Sword keychain",
+        "category": "Collectibles",
+        "price": 18,
+        "image": "image\/16.jpg",
+        "tagline": "This \"The Legend of Zelda\" Master Sword keychain is based on the legendary weapon in the game and is made of zinc alloy."
+    },
+    {
+        "id": 14,
+        "name": "Genshin Impact Seven Gods Badge Brooch Set",
+        "category": "Gaming Merchandise",
+        "price": 32,
+        "image": "image\/17.jpg",
+        "tagline": "Inspired by the seven deities of the continent of Teyvat, this set of badge brooches features classic elements such as the Wind God, Rock God, and Thunder God."
+    },
+    {
+        "id": 15,
+        "name": "Apex Legends Tactical Water Bottle",
+        "category": "Lifestyle & Decor",
+        "price": 28,
+        "image": "image\/18.webp",
+        "tagline": "This tactical water bottle is inspired by the supply box in \"Apex Legends\""
+    },
+    {
+        "id": 16,
+        "name": "Stardew Valley Farm Apron",
+        "category": "Gaming Apparel",
+        "price": 36,
+        "image": "image\/19.jpg",
+        "tagline": "The Stardew Valley themed apron is made of pure cotton canvas"
+    },
+    {
+        "id": 17,
+        "name": "Overwatch Hero Pixel Night Light",
+        "category": "Gaming Merchandise",
+        "price": 42,
+        "image": "image\/20.jpg",
+        "tagline": "This pixel-style night light is based on the popular hero \"D.Va\" from \"Overwatch\""
+    },
+    {
+        "id": 18,
+        "name": "Minecraft Redstone Circuit Notebook",
+        "category": "Gaming Merchandise",
+        "price": 22,
+        "image": "image\/21.jpg",
+        "tagline": "The cover replicates the classic redstone circuit pattern from Minecraft"
+    },
+    {
+        "id": 19,
+        "name": "Hollow Knight Little Knight Plush Keychain",
+        "category": "Collectibles",
+        "price": 20,
+        "image": "image\/22.jpg",
+        "tagline": "ecreate the Q-version look of the protagonist \"Little Knight\" from \"Hollow Knight\""
+    },
+    {
+        "id": 20,
+        "name": "Elden Ring Golden Tree Scented Candle",
+        "category": "Lifestyle & Decor",
+        "price": 38,
+        "image": "image\/23.jpg",
+        "tagline": "Inspired by the sacred symbol of the Lands Between - the Golden Tree"
+    }
+]
